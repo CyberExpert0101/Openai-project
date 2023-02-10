@@ -158,8 +158,8 @@ const Completion = () => {
             // |
             // |
             //
-            disabled
-            readOnly
+            //disabled
+            //readOnly
           />
         </div>
       </div>
