@@ -139,7 +139,7 @@ const Completion = () => {
               // |
               // |
               //
-              // onClick={generateCompletion}
+               onClick={generateCompletion}
             >
               Send
             </button>
